@@ -1,0 +1,10 @@
+body {background-color: #DAECFF}
+#lehe_pealkiri {color: #FFFFFF; font-size: 40px; text-align: center; margin-top: 80px;
+    text-shadow: 3px 3px #b0b0b0; font-family: Raleway}
+#profiilipilt {margin-left: 200px; float:left}
+#alapealkiri {position:fixed; left:600px; top: 230px}
+#enesetutvustus {position:fixed; left:600px; top: 300px}
+#huvid {position:fixed; left:600px; top: 400px}
+#esimene {width: 300px; height: 300px; background-color: yellowgreen; float: left}
+#teine {width: 300px; height: 300px; background-color: #52CC52; float: left}
+#kolmas {width: 300px; height: 300px; background-color: #A3FFA3; float: left}
